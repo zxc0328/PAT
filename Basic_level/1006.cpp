@@ -1,3 +1,7 @@
+//http://www.patest.cn/contests/pat-b-practise/1006
+//分别获取个十百三部分数字，转换后拼接字符串即可。
+//用到了C++ 11的新stoi()和to_string() API。
+
 # include <iostream>
 # include <string>
 
